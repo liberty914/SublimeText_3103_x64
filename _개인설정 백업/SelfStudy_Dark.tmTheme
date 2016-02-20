@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- author:  Mark Herpich https://twitter.com/TheMarkWithK    -->
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>SelfStudy by Rex</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>   <!--배경 색깔-->
+				<string>#000000</string>
+				<key>caret</key>        <!--깜빡이는 커서 색깔-->
+				<string>#FFFFFF</string>
+				<key>foreground</key>   <!--글자 색깔-->
+				<string>#FFFFFF</string>
+				<key>invisibles</key>
+				<string>#FF0000</string>
+				<key>lineHighlight</key> <!--라인번호 표시 색깔-->
+				<string>#5A5A5A</string>
+				<key>selection</key>    <!--드래그했을때 색깔-->
+				<string>#696969</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>  <!--주석부분 색깔-->
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>gray</string>  <!--이렇게도 쓸수있음-->
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.1337</string>
+	<key>author</key>
+	<string>Mark Herpich</string>
+	<key>comment</key>
+	<string>http:&#x2f;&#x2f;www.twitter.com&#x2f;TheMarkWithK</string>
+</dict>
+</plist>
